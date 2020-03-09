@@ -6,4 +6,8 @@ package com.pulla.algorithm.course;
  * @Description:
  */
 public class FastSort {
+    public static void main(String[] args) {
+        char a = '是';
+        System.out.println(a);
+    }
 }
