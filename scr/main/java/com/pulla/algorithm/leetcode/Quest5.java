@@ -1,5 +1,8 @@
 package com.pulla.algorithm.leetcode;
 
+/**
+ * 最长公共子序列
+ */
 public class Quest5 {
     public static void main(String[] args) {
         Quest5 quest5 = new Quest5();
